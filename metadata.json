@@ -1,0 +1,6 @@
+{
+  "name": "Inkloom AI — BrandGuard",
+  "description": "Explainable AI-powered brand governance platform to review marketing content, enforce voice consistency, and streamline human approval workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
